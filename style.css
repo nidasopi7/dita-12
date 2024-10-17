@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: orange;
+    font-size: 40px;
+}
+
+h3 {
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;*/
+
+    /*margin: 10px 20px 30px 40px;*/
+    /*margin: 100px 300px 200px;*/
+    margin: 100px 300px 200px 400px;
+}
+
+div {
+    border: solid black 3px;
+    margin: 100px;
+    padding: 50px 100px ;
+    background-color: powderblue;
+    max-width: 200px;
+}
